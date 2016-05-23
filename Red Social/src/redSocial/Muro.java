@@ -7,7 +7,6 @@ public class Muro {
 			private ArrayList<Mensaje> mensaje;
 	
 			
-			
 //////Constructores
 	public Muro(){
 		mensaje= new ArrayList<Mensaje>();
